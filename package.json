@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-mock-server",
+  "version": "0.0.1",
+  "description": "mock server using expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalakhouri/expressjs-mock-server.git"
+  },
+  "keywords": [
+    "mock",
+    "server",
+    "expressjs"
+  ],
+  "author": "Akhouri Vishal Sinha @VishalAkhouri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishalakhouri/expressjs-mock-server/issues"
+  },
+  "homepage": "https://github.com/vishalakhouri/expressjs-mock-server#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
